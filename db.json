@@ -7,7 +7,7 @@
       "jawabanb" :  "PPh",
       "jawabanc" :  "PPnBM",
       "jawaband" :  "PBB",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "PPnBM"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" :  "Tidak Langsung",
       "jawabanc" :  "Pusat",
       "jawaband" :  "Daerah",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Daerah"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" :  "Pasal 9 UU No. 42 Tahun 2009",
       "jawabanc" :  "Pasal 8 UU No. 42 Tahun 2010",
       "jawaband" :  "Pasal 9 UU No. 42 Tahun 2010",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Pasal 8 UU No. 42 Tahun 2009"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" :  "Paling rendah 10% dan paling tinggi 200%",
       "jawabanc" :  "Paling rendah 15% dan paling tinggi 65%",
       "jawaband" :  "Paling rendah 20% dan paling tinggi 75%",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Paling rendah 10% dan paling tinggi 200%"
     },
     {
       "id" : 5,
@@ -43,7 +43,7 @@
       "jawabanb" :  "15%",
       "jawabanc" :  "10%",
       "jawaband" :  "0%",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "0%"
     },
     {
       "id" : 6,
@@ -52,7 +52,7 @@
       "jawabanb" :  "SPT 1107",
       "jawabanc" :  "SPT 1771",
       "jawaband" :  "SPT Masa PPN 1111",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "SPT Masa PPN 1111"
     },
     {
       "id" : 7,
@@ -61,7 +61,7 @@
       "jawabanb" :  "Tanggal 10 bulan berikutnya setelah masa pajak berakhir",
       "jawabanc" :  "Akhir bulan berikut, tepatnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan",
       "jawaband" :  "Tanggal 7 bulan berikutnya setelah masa pajak berakhir",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Tanggal 15 bulan berikutnya setelah masa pajak berakhir"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" :  "Muniman alkohol, rokok, dan senjata api",
       "jawabanc" :  "Kapal pesiar, batu mulia, dan bangunan",
       "jawaband" :  "Pangatur suhu udara, alat sinematografi, dan senjata api",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Minuman alkohol, peralatan kantor, dan kelompok jenis alas kaki"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" :  "Barang yang hanya dikonsumsi oleh masyarakat tertentu",
       "jawabanc" :  "Barang yang hanya dikonsumsi oleh masyarakat berpenghasilan tinggi",
       "jawaband" :  "Barang yang merupakan kebutuhan pokok",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Barang yang merupakan kebutuhan pokok"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" :  "10% - 200%",
       "jawabanc" :  "50%",
       "jawaband" :  "10% - 100%",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "10% - 200%"
     },
     {
       "id" : 11,
@@ -97,7 +97,7 @@
       "jawabanb" :  "Kelompok barang yang terbuat dari kulit",
       "jawabanc" :  "Kelompok permadani yang terbuat dari sutra atau wool",
       "jawaband" :  "Kelompok selain senjata api dan sen",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Kelompok selain senjata api dan sen"
     },
     {
       "id" : 12,
@@ -106,7 +106,7 @@
       "jawabanb" :  "PMK No 106/PMK.010/2015",
       "jawabanc" :  "KMK No 106/KMK.04/2015",
       "jawaband" :  "PMK No 642/PMK.04.2015",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "PMK No 106/PMK.010/2015"
     },
     {
       "id" : 13,
@@ -115,7 +115,7 @@
       "jawabanb" :  "Nilai impor, nilai beli, harga pengganti, nilai lain",
       "jawabanc" :  "Harga jual/pengganti, nilai impor, nilai ekspor, nilai lain",
       "jawaband" :  "Nilai lain, harga jual, biaya kirim, pendapatan",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Harga jual/pengganti, nilai impor, nilai ekspor, nilai lain"
     },
     {
       "id" : 14,
@@ -124,7 +124,7 @@
       "jawabanb" :  "Rp550.000 dan Rp1.500.000",
       "jawabanc" :  "Rp500.000 dan Rp2.000.000",
       "jawaband" :  "Rp100.000 dan Rp500.000",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Rp500.000 dan Rp1.000.000"
     },
     {
       "id" : 15,
@@ -133,7 +133,7 @@
       "jawabanb" :  "Rp1.314.000.000",
       "jawabanc" :  "Rp900.000.000",
       "jawaband" :  "Rp990.000.000",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp1.314.000.000"
     }
   ]
 }
