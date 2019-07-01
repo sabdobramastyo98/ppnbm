@@ -1,0 +1,139 @@
+{
+  "ppnbm" : [
+    {
+      "id" : 1,
+      "soal" : "Pajak yang dikenakan pada barang yang tergolong mewah yang dilakukan oleh produsen (pengusaha) untuk menghasilkan atau mengimpor barang tersebut dalam kegiatan usaha atau pekerjaannya dalah pengertian dari …",
+      "jawabana" :  "PPN",
+      "jawabanb" :  "PPh",
+      "jawabanc" :  "PPnBM",
+      "jawaband" :  "PBB",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 2,
+      "soal" : "PPnBM merupakan salah satu jenis pajak yang bersifat …",
+      "jawabana" :  "Langsung",
+      "jawabanb" :  "Tidak Langsung",
+      "jawabanc" :  "Pusat",
+      "jawaband" :  "Daerah",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 3,
+      "soal" : "Tarif pajak penjualan atas barang mewah ditetapkan paling rendah 10% dan paling tinggi sebesar 20%. Jika pengusaha melakukan ekspor Barang Kena Pajak yang tergolong mewah maka akan dikenai pajak dengan tarif sebesar 0% diatur oleh pemerintah yang tercantum dalam …",
+      "jawabana" :  "Pasal 8 UU No. 42 Tahun 2009",
+      "jawabanb" :  "Pasal 9 UU No. 42 Tahun 2009",
+      "jawabanc" :  "Pasal 8 UU No. 42 Tahun 2010",
+      "jawaband" :  "Pasal 9 UU No. 42 Tahun 2010",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 4,
+      "soal" : "Tarif pajak penjualan atas barang mewah adalah …",
+      "jawabana" :  "Paling rendah 5% dan paling tinggi 80%",
+      "jawabanb" :  "Paling rendah 10% dan paling tinggi 200%",
+      "jawabanc" :  "Paling rendah 15% dan paling tinggi 65%",
+      "jawaband" :  "Paling rendah 20% dan paling tinggi 75%",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 5,
+      "soal" : "Atas ekspor Barang Kena Pajak yang tergolong mewah dikenakan pajak dengan tarif …",
+      "jawabana" :  "20% ",
+      "jawabanb" :  "15%",
+      "jawabanc" :  "10%",
+      "jawaband" :  "0%",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 6,
+      "soal" : "Pembuatan laporan PPnBM harus menggunakan formulir ..",
+      "jawabana" :  "SPT Masa 1101",
+      "jawabanb" :  "SPT 1107",
+      "jawabanc" :  "SPT 1771",
+      "jawaband" :  "SPT Masa PPN 1111",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 7,
+      "soal" : "Masa jatuh tempo SPT Masa PPN atau PPN dan PPnBM yang pemungutannya dilakukan oleh pemungut PPN selain bendahara pemerintah atau instansi pemerintah yang di tunjuk adalah …",
+      "jawabana" :  "Tanggal 15 bulan berikutnya setelah masa pajak berakhir",
+      "jawabanb" :  "Tanggal 10 bulan berikutnya setelah masa pajak berakhir",
+      "jawabanc" :  "Akhir bulan berikut, tepatnya setelah berakhirnya masa pajak dan sebelum SPT Masa PPN disampaikan",
+      "jawaband" :  "Tanggal 7 bulan berikutnya setelah masa pajak berakhir",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 8,
+      "soal" : "Kelompok barang kena pajak yang tergolong mewah selain kendaraan bermotor yang dikenakan pajak sebesar 40% adalah …",
+      "jawabana" :  "Minuman alkohol, peralatan kantor, dan kelompok jenis alas kaki",
+      "jawabanb" :  "Muniman alkohol, rokok, dan senjata api",
+      "jawabanc" :  "Kapal pesiar, batu mulia, dan bangunan",
+      "jawaband" :  "Pangatur suhu udara, alat sinematografi, dan senjata api",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 9,
+      "soal" : "Berikut yang termasuk BKP tergolong mewah, kecuali…",
+      "jawabana" :  "Barang yang bukan merupakan barang kebutuhan pokok",
+      "jawabanb" :  "Barang yang hanya dikonsumsi oleh masyarakat tertentu",
+      "jawabanc" :  "Barang yang hanya dikonsumsi oleh masyarakat berpenghasilan tinggi",
+      "jawaband" :  "Barang yang merupakan kebutuhan pokok",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 10,
+      "soal" : "Berikut adalah tarif pengenaan pajak untuk PPnBM sebesar …",
+      "jawabana" :  "15% - 80%",
+      "jawabanb" :  "10% - 200%",
+      "jawabanc" :  "50%",
+      "jawaband" :  "10% - 100%",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 11,
+      "soal" : "Berikut ini merupakan kelompok Barang Kena Pajak yang tergolong Mewah selain Kendaran bermotor yang dikenakan Pajak Penjualan atas Barang Mewah dengan tarif sebesar 40%, kecuali …",
+      "jawabana" :  "Kelompok minuman yang mengandung alkohol",
+      "jawabanb" :  "Kelompok barang yang terbuat dari kulit",
+      "jawabanc" :  "Kelompok permadani yang terbuat dari sutra atau wool",
+      "jawaband" :  "Kelompok selain senjata api dan sen",
+      "kuncijawaban" : "jawaband"
+    },
+    {
+      "id" : 12,
+      "soal" : "Hasil peraturan revisi dari Menteri Keuangan No 130/PMK.011/2013 tentang Jenis Barang Kena Pajak yang Tergolong Mewah selain Kendaraan Bermotor yang dikenai pajak penjualan atas barang mewah adalah …",
+      "jawabana" :  "KMK No 642/KMK.04/2014",
+      "jawabanb" :  "PMK No 106/PMK.010/2015",
+      "jawabanc" :  "KMK No 106/KMK.04/2015",
+      "jawaband" :  "PMK No 642/PMK.04.2015",
+      "kuncijawaban" : "jawabanb"
+    },
+    {
+      "id" : 13,
+      "soal" : "Yang merupakan dasar pengenaan pajak adalah …",
+      "jawabana" :  "Harga jual/pengganti, nilai beli, nilai kirim, pendapatan",
+      "jawabanb" :  "Nilai impor, nilai beli, harga pengganti, nilai lain",
+      "jawabanc" :  "Harga jual/pengganti, nilai impor, nilai ekspor, nilai lain",
+      "jawaband" :  "Nilai lain, harga jual, biaya kirim, pendapatan",
+      "kuncijawaban" : "jawabanc"
+    },
+    {
+      "id" : 14,
+      "soal" : "Pengusaha Kena Pajak “D” mengimpor Barang Kena Pajak yang tergolong Mewah dengan Nilai Impor sebesar Rp5.000.000,00 Barang Kena Pajak yang tergolong mewah tersebut selain dikenai PPN juga dikenai PPnBM misalnya dengan tarif 20%. PPN dan PPnBM yang terutang atas impor Barang Kena Pajak yang tergolong mewah tersebut adalah …",
+      "jawabana" :  "Rp500.000 dan Rp1.000.000",
+      "jawabanb" :  "Rp550.000 dan Rp1.500.000",
+      "jawabanc" :  "Rp500.000 dan Rp2.000.000",
+      "jawaband" :  "Rp100.000 dan Rp500.000",
+      "kuncijawaban" : "jawabana"
+    },
+    {
+      "id" : 15,
+      "soal" : "Bapak Ahmad merupakan seorang pengusaha di bidang produksi film, pada suatu saat beliau membeli sebuah mobil sport mewah dengan harga Rp900.000.000. Berdasarkan DPP, mobil tersebut terkena tarif PPnBM sebesar 40%. Lalu, berapakah nilai uang yang harus dibayarkan Bapak Ahmad untuk membawa masuk mobilnya ke Indonesia?",
+      "jawabana" :  "Rp1.300.000.000",
+      "jawabanb" :  "Rp1.314.000.000",
+      "jawabanc" :  "Rp900.000.000",
+      "jawaband" :  "Rp990.000.000",
+      "kuncijawaban" : "jawabanb"
+    }
+  ]
+}
